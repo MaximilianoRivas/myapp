@@ -1,7 +1,8 @@
 import{BrowserRouter,Routes,Route} from 'react-router-dom';
 import Home from'../pages/Home/Home';
-import Character from '../pages/Characters/Characters';
+import Character from '../pages/Characters/Chareactes';
 import Contact from '../pages/Contact/Contact';
+
 
 export default function Router(){
     return(
